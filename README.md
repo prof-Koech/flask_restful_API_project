@@ -1,6 +1,6 @@
 # flask_restful_API_project
 
-# welcome to flask restful API
+# Welcome to Flask restful API
 
 we will be diving into the following in this project
 
@@ -9,4 +9,4 @@ we will be diving into the following in this project
 3. GET many users
 4. UPDATE user details
 5. User login
-   6.UPDATE user password
+6. UPDATE user's password
